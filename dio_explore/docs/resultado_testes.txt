@@ -1,0 +1,55 @@
+======================================================================
+  RELATÓRIO DE TESTES — dio_explore | IBM Bob Project
+  Gerado em: 02/09/2026 20:44:40
+======================================================================
+
+┌─ Suite: JSON Integrity
+│  Executados : 11
+│  Aprovados  : 11
+│  Falhas     : 0
+│  Erros      : 0
+│  Cobertura  : 100.0%  ✅ PASSOU
+└────────────────────────────────────────────────────────────
+
+┌─ Suite: Comando /trilha
+│  Executados : 12
+│  Aprovados  : 12
+│  Falhas     : 0
+│  Erros      : 0
+│  Cobertura  : 100.0%  ✅ PASSOU
+└────────────────────────────────────────────────────────────
+
+┌─ Suite: Comando /desafio
+│  Executados : 9
+│  Aprovados  : 9
+│  Falhas     : 0
+│  Erros      : 0
+│  Cobertura  : 100.0%  ✅ PASSOU
+└────────────────────────────────────────────────────────────
+
+┌─ Suite: Comando /certificado
+│  Executados : 10
+│  Aprovados  : 10
+│  Falhas     : 0
+│  Erros      : 0
+│  Cobertura  : 100.0%  ✅ PASSOU
+└────────────────────────────────────────────────────────────
+
+┌─ Suite: Arquivos de Comando
+│  Executados : 6
+│  Aprovados  : 6
+│  Falhas     : 0
+│  Erros      : 0
+│  Cobertura  : 100.0%  ✅ PASSOU
+└────────────────────────────────────────────────────────────
+
+======================================================================
+  RESULTADO GERAL
+======================================================================
+  Total de testes : 48
+  Aprovados       : 48
+  Falhas          : 0
+  Erros           : 0
+  Cobertura geral : 100.0%
+  Status          : ✅ META DE 70% ATINGIDA
+======================================================================
