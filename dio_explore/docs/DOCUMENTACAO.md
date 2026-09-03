@@ -4,7 +4,7 @@
 > **Repositório:** IBM-Bob-Projeto-final  
 > **Bootcamp:** IBM Bob: IA de Nível Empresarial para Desenvolvedores e Tech Leaders  
 > **Ferramenta principal:** IBM Bob (IA assistente de desenvolvimento)  
-> **Autor:** Bruno Oliveira  
+> **Autor:** Bruno Cezar Guimarães  
 
 ---
 
