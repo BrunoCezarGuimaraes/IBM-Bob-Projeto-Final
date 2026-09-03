@@ -1,6 +1,7 @@
 # 🚀 dio_explore — Projeto Final do Bootcamp IBM Bob
 
-> Projeto final do **Bootcamp IBM Bob: IA de Nível Empresarial para Desenvolvedores e Tech Leaders**
+> Projeto final do **Bootcamp IBM Bob: IA de Nível Empresarial para Desenvolvedores e Tech Leaders**.
+> 
 > Desenvolvido com o IBM Bob como copiloto de desenvolvimento, explorando seu uso na implementação, testes e documentação do projeto.
 
 ---
