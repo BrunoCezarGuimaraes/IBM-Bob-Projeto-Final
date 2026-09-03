@@ -1,7 +1,7 @@
 # 🚀 dio_explore — Projeto Final do Bootcamp IBM Bob
 
 > Projeto final do **Bootcamp IBM Bob: IA de Nível Empresarial para Desenvolvedores e Tech Leaders**
-> Desenvolvido por **Bruno Oliveira** com apoio do IBM Bob como copiloto de desenvolvimento.
+> Desenvolvido com apoio do IBM Bob como copiloto de desenvolvimento.
 
 ---
 
