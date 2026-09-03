@@ -240,7 +240,7 @@ class TestComandoDesafio(unittest.TestCase):
 class TestComandoCertificado(unittest.TestCase):
     """Testa o fluxo do slash command /certificado."""
 
-    NOME   = "Bruno Oliveira"
+    NOME   = "Ana Silva"
     TRILHA = "Java"
 
     def test_certificado_java_gerado(self):
