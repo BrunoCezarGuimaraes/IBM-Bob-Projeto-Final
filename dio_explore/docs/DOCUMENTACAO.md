@@ -26,7 +26,7 @@
 
 ## 1. Visão Geral do Projeto
 
-O **dio_explore** é uma plataforma fictícia de exploração de trilhas de aprendizagem da DIO (Digital Innovation One), construída inteiramente com apoio do IBM Bob durante o Bootcamp. O projeto demonstra como um assistente de IA pode ser usado como copiloto de desenvolvimento real — desde a criação da estrutura de pastas até testes unitários e documentação.
+O **dio_explore** é uma plataforma fictícia de exploração de trilhas de aprendizagem da DIO (Digital Innovation One), construída inteiramente com apoio do IBM Bob durante o Bootcamp, IBM Bob: IA de Nível Empresarial para Desenvolvedores e Tech Leaders. O projeto demonstra como um assistente de IA pode ser usado como copiloto de desenvolvimento real — desde a criação da estrutura de pastas até testes unitários e documentação.
 
 ### Objetivos alcançados
 
