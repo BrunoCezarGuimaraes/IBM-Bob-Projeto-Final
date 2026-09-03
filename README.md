@@ -7,7 +7,7 @@
 
 ## 📌 Sobre o Projeto
 
-O **dio_explore** é uma plataforma fictícia de exploração de trilhas de aprendizagem da [DIO (Digital Innovation One)](https://web.dio.me/), construída inteiramente com auxílio do **IBM Bob** durante o **Bootcamp IBM Bob: IA de Nível Empresarial para Desenvolvedores e Tech Leaders**. O projeto demonstra como uma IA pode atuar como copiloto em todas as fases do desenvolvimento — da estruturação do projeto à escrita de testes e documentação.
+O **dio_explore** é uma plataforma fictícia de exploração de trilhas de aprendizagem da [DIO (Digital Innovation One)](https://web.dio.me/), construída inteiramente com auxílio do **IBM Bob** durante o **Bootcamp IBM Bob: IA de Nível Empresarial para Desenvolvedores e Tech Leaders**. O projeto demonstra como uma IA pode atuar como copiloto ao longo do desenvolvimento — desde a estruturação do projeto até a implementação, escrita de testes e documentação.
 
 A plataforma permite consultar trilhas por tecnologia, gerar desafios de código personalizados e emitir certificados fictícios de conclusão, tudo via **slash commands** do IBM Bob.
 
