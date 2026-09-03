@@ -273,8 +273,8 @@ Os slash commands ficam em `.bob/commands/` e são **exclusivos deste projeto** 
 
 **Como usar:**
 ```
-/certificado "Bruno Oliveira" Java
-/certificado "Ana Silva" Python
+/certificado "Ana Silva" Java
+/certificado "Breno Rodrigues" Python
 /certificado "Carlos Souza" "Machine Learning"
 ```
 
